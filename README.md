@@ -1,0 +1,4 @@
+wp-icons
+========
+
+WordPress icons
